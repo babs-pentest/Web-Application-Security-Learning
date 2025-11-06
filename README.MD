@@ -6,7 +6,7 @@ It includes short notes, PortSwigger writeups, one-page reports, screenshots, an
 The goal of this repo is simple:  
 ✅ Learn consistently  
 ✅ Document clearly  
-✅ Build a real portfolio for cybersecurity roles  
+✅ Build a real portfolio  
 
 ---
 
